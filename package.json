@@ -1,0 +1,22 @@
+{
+  "name": "mysql-tutorial",
+  "version": "1.0.0",
+  "description": "mysql-database-initigration-with-nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npjs444444/mysql-tutorial.git"
+  },
+  "author": "Nikhil Pokharel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npjs444444/mysql-tutorial/issues"
+  },
+  "homepage": "https://github.com/npjs444444/mysql-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
